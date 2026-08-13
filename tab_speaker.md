@@ -3,7 +3,7 @@ title: speaker
 displaytext: Call for Speakers
 layout:  null
 tab: true
-order: 6
+order: 5
 tags: OWASP ATMECE
 ---
 
