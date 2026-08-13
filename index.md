@@ -44,6 +44,6 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 - Stay connected for more updates, opportunities, and initiatives from our chapter. Keep learning, keep exploring, and keep building a more secure digital future together. 🔐🚀
 
 Something exciting is on the horizon. Stay connected with OWASP ATMECE and be part of what’s next! 🌟
--  <a href="https://www.linkedin.com/company/owasp-atmece" target="_blank" > <img width = "20" height = "20" src ="assets/Images/linkedin.png"> Linkedin </span></a> <br/>
+-  <a href="https://www.linkedin.com/company/owasp-atmece" target="_blank" > <img width = "20" height = "20" src ="assets/Images/linkedin.png"> <span style = "font-family:sans-serif">Linkedin</span></a> <br/>
 -  <a href="https://www.instagram.com/owasp_atmece/" target="_blank" > <img width = "20" height = "20" src ="assets/Images/instagram.png"/>  <span style = "font-family:sans-serif">Telegram</span></a> <br/>
 
