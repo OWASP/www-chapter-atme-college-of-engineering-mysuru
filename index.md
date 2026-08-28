@@ -15,7 +15,7 @@ postal-code: 570028
 ---
 
 <!--![OWASP ATMECE](/assets/images/OWASP_Banner.png) -->
-<img src="./assets/Images/OWASP_Banner.png" style="width:70vw"/>
+<img src="./assets/Images/owasp_banner.jpeg" style="width:70vw"/>
 
 **ATME College of Engineering**, Mysuru, established in 2010, is committed to providing holistic education with the student community at the heart of the learning process. The institution fosters a motivating and inclusive environment that encourages knowledge assimilation, innovation, social responsibility, and the development of strong human values.
 
