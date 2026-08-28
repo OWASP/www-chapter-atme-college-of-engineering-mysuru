@@ -1,6 +1,6 @@
 ### OWASP ATME College of Engineering, Mysuru Chapter Information
 
-![OWASP Logo](/assets/Images/Owasp_logo.png) [ATME College of Engineering, Mysuru](https://www.atme.edu.in/) brings students a holistic, student-centered education in a motivating and inclusive environment that nurtures knowledge, innovation, social responsibility, and strong human values.
+![OWASP Logo](/assets/Images/owasp_logo.png) [ATME College of Engineering, Mysuru](https://www.atme.edu.in/) brings students a holistic, student-centered education in a motivating and inclusive environment that nurtures knowledge, innovation, social responsibility, and strong human values.
 
 ### Social Links
 
