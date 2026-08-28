@@ -6,4 +6,4 @@
 
 * <a href="https://www.linkedin.com/company/owasp-atmece" target="_blank" > <img width = "20" height = "20" src ="assets/Images/linkedin.png"> <span style = "font-family:sans-serif">Linkedin</span></a> <br/>
 
-* <a href="https://www.instagram.com/owasp_atmece/" target="_blank" > <img width = "20" height = "20" src ="assets/Images/instagram.png"/>  <span style = "font-family:sans-serif">Telegram</span></a> <br/>
+* <a href="https://www.instagram.com/owasp_atmece/" target="_blank" > <img width = "20" height = "20" src ="assets/Images/instagram.png"/>  <span style = "font-family:sans-serif">Instagram</span></a> <br/>
