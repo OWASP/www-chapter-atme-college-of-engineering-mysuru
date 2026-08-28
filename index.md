@@ -45,5 +45,5 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 Something exciting is on the horizon. Stay connected with OWASP ATMECE and be part of what’s next! 🌟
 -  <a href="https://www.linkedin.com/company/owasp-atmece" target="_blank" > <img width = "20" height = "20" src ="assets/Images/linkedin.png"> <span style = "font-family:sans-serif">Linkedin</span></a> <br/>
--  <a href="https://www.instagram.com/owasp_atmece/" target="_blank" > <img width = "20" height = "20" src ="assets/Images/instagram.png"/>  <span style = "font-family:sans-serif">Telegram</span></a> <br/>
+-  <a href="https://www.instagram.com/owasp_atmece/" target="_blank" > <img width = "20" height = "20" src ="assets/Images/instagram.png"/>  <span style = "font-family:sans-serif">Instagram</span></a> <br/>
 
